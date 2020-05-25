@@ -1,0 +1,35 @@
+.button1{
+    border: 1px solid #1378fb;
+    padding: 10px 20px 7px;
+    font-size: .85em;
+    text-transform: uppercase;
+    color: #1378fb;
+    letter-spacing: 0.1em;
+    background-color: transparent;
+
+    
+    
+}
+
+
+.subtext{
+
+    margin-left:500px;
+    font-family: 'Comic Neue', cursive;
+    margin-top: -100px;
+}
+
+.trippeo{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(20, 140, 254);
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.topicos{
+    font-family: "Nunito", sans-serif;
+   
+
+}
+}
